@@ -5,6 +5,6 @@ These are sample programs to showcase python basics like:
 - string methods, 
 - arthimetic operations and list operations.
 
-For more explanation click on this video link: paste video link here
+For more explanation: [click_here_for_video](https://drive.google.com/drive/folders/1dWq5dVQqs-JVms35qWIznAaUT_D2jmlO?usp=sharing)
 
 Name: Navasai Kumar Reddy Gangireddy Id: 700754033.
